@@ -146,8 +146,9 @@ a {
 
 /* footer */
 .attribution {
-    font-size: 11px;
+    font-size: 1rem;
     text-align: center;
+    margin-top: 2rem;
 }
 
 .attribution a {
