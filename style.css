@@ -28,7 +28,6 @@ body {
     max-width: 450px;
     background-color: hsl(216, 50%, 16%);
     border-radius: 2rem;
-    border-radius: 2rem;
     box-shadow: 0 0 50px 20px rgb(7, 16, 30)
 }
 
@@ -40,7 +39,6 @@ body {
 a {
     text-decoration: none;
     color: #fff;
-    padding-left: 1rem
 }
 
 .main-card {
@@ -92,12 +90,15 @@ a {
 
 .card-title {
     color: #fff;
-    padding: 2rem 0;
+    padding-top: 3.5rem;
     font-size: 2.5rem;
-    pointer-events: auto
 }
 
-.card-title:hover {
+.card-title span {
+    padding-left: 1.2rem;
+}
+
+.card-title a:hover {
     color: hsl(178, 100%, 50%)
 }
 
