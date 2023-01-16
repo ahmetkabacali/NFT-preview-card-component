@@ -27,7 +27,9 @@ body {
     min-width: 350px;
     max-width: 450px;
     background-color: hsl(216, 50%, 16%);
-    border-radius: 2rem
+    border-radius: 2rem;
+    border-radius: 2rem;
+    box-shadow: 0 0 50px 20px rgb(7, 16, 30)
 }
 
 .flex-group {
